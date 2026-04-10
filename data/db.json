@@ -1,0 +1,53 @@
+[
+    {
+        "title": "常用网站",
+        "nav": [
+            {
+                "title": "AI工具",
+                "nav": [
+                    {
+                        "title": "人工智能",
+                        "nav": [
+                            {
+                                "id": 1,
+                                "name": "Gemini",
+                                "desc": "Google AI 助手",
+                                "url": "https://gemini.google.com/app?hl=zh",
+                                "icon": "https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg",
+                                "rate": 5
+                            }
+                        ],
+                        "id": 7,
+                        "icon": ""
+                    }
+                ],
+                "id": 6,
+                "icon": ""
+            },
+            {
+                "title": "云服务",
+                "nav": [
+                    {
+                        "title": "云存储",
+                        "nav": [
+                            {
+                                "id": 2,
+                                "name": "iCloud",
+                                "desc": "Apple 云服务",
+                                "url": "https://www.icloud.com.cn",
+                                "icon": "https://www.icloud.com/favicon.ico",
+                                "rate": 5
+                            }
+                        ],
+                        "id": 5,
+                        "icon": ""
+                    }
+                ],
+                "id": 4,
+                "icon": ""
+            }
+        ],
+        "id": 3,
+        "icon": ""
+    }
+]
